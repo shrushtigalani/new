@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">user</string>
+    <string name="Name">Name</string>
+    <string name="Email">Email</string>
+    <string name="name">Name</string>
+    <string name="select">Select item</string>
+    <string name="error_invalid_name">This Field Is Required</string>
+    <string name="error_invalid_mail">Enter Valid Email</string>
+    <string name="error_invalid_hobby">Please Select Any one</string>
+    <string name="error_invalid_number">Enter Valid Number</string>
+    <string name="error_invalid_date">Enter Your Birthdate</string>
+    <string name="error_invalid_value">Number and _@#$%^ not Valid</string>
+    <string name="error_invalid_city">Please Select City</string>
+
+
+
+    <string-array name="android_dropdown_arrays">
+        <item>select City</item>
+        <item>Mumbai</item>
+        <item>channai</item>
+        <item>Jaipur</item>
+        <item>Surat</item>
+        <item>Pune</item>
+        <item>Bhopal</item>
+        <item>Ahemdabad</item>
+        <item>Vadodra</item>
+
+    </string-array>
+
+</resources>
